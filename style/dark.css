@@ -1,0 +1,15 @@
+body,
+input,
+select {
+	background-color: #424242;
+	color: #fafafa;
+}
+a,
+span,
+.icon-cart,
+input::-webkit-input-placeholder {
+	color: #fafafa;
+}
+.shop-block {
+	background-color: #424242;
+}
